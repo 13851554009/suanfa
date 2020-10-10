@@ -1,8 +1,5 @@
 package com.example.demo.list;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Reverse {
     public static void main(String[] args) {
         Node node5 = new Node(null, 5);
